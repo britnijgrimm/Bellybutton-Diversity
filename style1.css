@@ -1,0 +1,38 @@
+.jumbotron {
+    color: #efdfbd;
+    background-color: #18555a;
+    border-color: #25909e;
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+  body {
+    background-color: #321f17;
+  }
+
+.well {
+    color: #e8772a;
+    background-color: #18555a;
+    border-color: #25909e;
+}
+
+  .panel-primary {
+    color: #efdfbd;
+    background-color: #18555a;
+    border-color: #25909e;
+  }
+
+  .panel-heading {
+    background-color: #18555a;
+    border-color: #25909e;
+  }
+
+  .panel-title {
+    color: #e8772a;
+    background-color: #18555a;
+    border-color: #25909e;
+  }
+
+ 
+
+ 

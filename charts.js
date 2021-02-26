@@ -77,8 +77,6 @@ function buildCharts(sample) {
     var otuIds = result.otu_ids;
     var otuLabs = result.otu_labels;
     var otuVals = result.sample_values.sort((a,b)=>b-a).slice(0,10);
-    //var otuVals = result.sample_values;
-    //var sample_values=firstSample.sample_values.sort((a,b)=>b-a).slice(0,10);
 
     // 7. Create the yticks for the bar chart.
     // Hint: Get the the top 10 otu_ids and map them in descending order so the otu_ids with the most bacteria are last. 
